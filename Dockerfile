@@ -9,5 +9,5 @@ ENV DB_POSTGRESDB_PASSWORD=${PGPASSWORD}
 
 ENV N8N_PORT=5678
 ENV NODE_ENV=production
-ENV WEBHOOK_URL=https://your-railway-app-url
-ENV N8N_ENCRYPTION_KEY=your-encryption-key
+ENV WEBHOOK_URL=https://n8n-railway-production-adc9.up.railway.app
+ENV N8N_ENCRYPTION_KEY=Kj#9mP$2vN&5xL@23
